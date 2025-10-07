@@ -8,16 +8,24 @@ const projects = [
   {
     title: "ERP Web Uygulaması (Geliştirilmeye Devam Ediyor)",
     description:
-      "Bir backend developer(ASP) ile birlikte geliştirdiğimiz bu takım projesi halen geliştirilme aşamasında. Bu uygulamada amacımız küçük ve orta ölçekli işletmelere CRM, Stok, İK servisleri sunmak.",
+      "Bir backend developer (ASP.NET) ile birlikte geliştirdiğimiz bu takım projesi halen aktif olarak geliştirilmektedir. Amacımız, küçük ve orta ölçekli işletmelere yönelik entegre bir sistem sunarak CRM, stok yönetimi ve insan kaynakları modüllerini tek bir platformda birleştirmektir. Uygulama mimarisi, Single Responsibility ve DRY prensiplerine uygun şekilde tasarlanmış olup; service class yapısı ve Zustand durum yönetimi kütüphanesiyle kolay ölçeklenebilir, modüler ve profesyonel bir yapı oluşturulmaktadır.",
     image: "/erpapp.png",
-    tags: ["React", "Next.js", "Tailwind CSS", "Docker", "Jenkins"],
+    tags: [
+      "React",
+      "Next.js",
+      "Tailwind CSS",
+      "Docker",
+      "Jenkins",
+      "React Hook Form + Zod",
+      "Zustand",
+    ],
     github: "#",
     demo: "#",
   },
   {
     title: "DevBlog App",
     description:
-      "React ve Next.js kullanarak geliştirmiş olduğum ilk uygulama. Basit bir blog uygulaması. Yazı ekleme, silme, düzenleme, authentication işlemleri, yorum ekleme, silme gibi özellikleri bulunmaktadır.",
+      "React ve Next.js kullanarak geliştirmiş olduğum ilk uygulama. Basit bir blog uygulaması. Yazı ekleme, silme, düzenleme, authentication işlemleri, yorum ekleme, silme gibi özellikleri bulunmaktadır. İlk kez backend bağlantısı yapmak ve supabase kullanımını keşfetmek ve rich text editor eklemek zorlayıcı ve öğretici yanları oldu.",
     image: "/devblogapp.png",
     tags: ["Next.js", "React", "Material UI", "Vercel", "Supabase"],
     github: "https://github.com/selimbugun/dev-blog-app",

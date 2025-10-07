@@ -38,9 +38,10 @@ export default function About() {
               <span className="font-semibold text-primary">
                 front end developer
               </span>{" "}
-              olarak, modern web teknolojileri ile kullanıcı odaklı uygulamalar
-              geliştiriyorum. Kod yazmayı bir sanat olarak görüyor ve her
-              projede mükemmelliği hedefliyorum.
+              olarak modern web teknolojileriyle kullanıcı deneyimini ön planda
+              tutan, dinamik ve ölçeklenebilir uygulamalar geliştiriyorum. Kod
+              yazmayı bir sanat olarak görüyor, her projede estetik ve
+              performans dengesini yakalamayı hedefliyorum.
             </p>
             <p>
               <span className="italic text-accent">
@@ -50,9 +51,10 @@ export default function About() {
               pratikleri uygulamaya özen gösteriyorum.
             </p>
             <p>
-              Sürekli yeni projeler geliştirmeye devam ediyor, yeni
-              teknolojileri öğreniyor ve blog yazıları yazıyorum. Kahve içmeyi,
-              müzik dinlemeyi ve oyun oynamayı seviyorum.
+              Yeni fikirler üretmeyi, açık kaynak dünyasını keşfetmeyi ve
+              öğrendiklerimi paylaşmayı seviyorum. Boş zamanlarımda kahve
+              eşliğinde müzik dinler, yeni oyunlar dener ve kendimi geliştirecek
+              küçük projeler üzerinde çalışırım.
             </p>
           </div>
         </div>
